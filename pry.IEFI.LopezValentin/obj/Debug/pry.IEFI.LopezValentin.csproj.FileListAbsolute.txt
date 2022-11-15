@@ -1,0 +1,155 @@
+D:\Escritorio\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe.config
+D:\Escritorio\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe
+D:\Escritorio\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.pdb
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.AssemblyReference.cache
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmAgregarCliente.resources
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmBuscarCliente.resources
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmModificarCliente.resources
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmPrincipal.resources
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.Properties.Resources.resources
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.GenerateResource.cache
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.CoreCompileInputs.cache
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.exe
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.pdb
+D:\Escritorio\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmUsuario.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe.config
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmAgregarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmBuscarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmModificarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmUsuario.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoClientes.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\Repos-LopzValentin-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoSucursales.resources
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe.config
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmAgregarCliente.resources
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmBuscarCliente.resources
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoClientes.resources
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoSucursales.resources
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmModificarCliente.resources
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmPrincipal.resources
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmUsuario.resources
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.Properties.Resources.resources
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.GenerateResource.cache
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\Alumno\Source\Repos\pry.IEFI.LopezValentin\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe.config
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmAgregarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmBuscarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoClientes.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoSucursales.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmModificarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmUsuario.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe.config
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmAgregarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmBuscarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoClientes.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoSucursales.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListarPorActividad.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmModificarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmUsuario.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI-07112022\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe.config
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmAgregarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmBuscarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoClientes.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoSucursales.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListarPorActividad.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmModificarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmUsuario.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\IEFI LOPEZ\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe.config
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmAgregarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmBuscarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoClientes.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoSucursales.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListarPorActividad.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmModificarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmUsuario.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmAgregarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmBuscarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoClientes.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoSucursales.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListarPorActividad.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmModificarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmUsuario.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe.config
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe.config
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\bin\Debug\pry.IEFI.LopezValentin.pdb
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmAgregarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmBuscarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoClientes.resources
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListadoSucursales.resources
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmListarPorActividad.resources
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmModificarCliente.resources
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmPrincipal.resources
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.frmUsuario.resources
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.exe
+C:\Users\valen\OneDrive\Escritorio\Repositorio que anda IEFI\Repos-IEFI.15112022\IEFI\pry.IEFI.LopezValentin\obj\Debug\pry.IEFI.LopezValentin.pdb
