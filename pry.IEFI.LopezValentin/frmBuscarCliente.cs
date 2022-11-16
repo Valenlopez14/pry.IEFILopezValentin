@@ -43,6 +43,7 @@ namespace pry.IEFI.LopezValentin
 
         private void cmdBuscar_Click(object sender, EventArgs e)
         {
+
             Int32 DNI_Cliente = Convert.ToInt32(txtDNI.Text);
             clsClientes objCliente = new clsClientes();
             objCliente.Buscar(DNI_Cliente);
@@ -63,6 +64,22 @@ namespace pry.IEFI.LopezValentin
 
             }
 
+        }
+        private void BuenasPracticas()
+        {
+            if (txtDNI.Text != "")
+            {
+                cmdBuscar.Enabled = true;
+            }
+            else
+            {
+                cmdBuscar.Enabled = false;
+            }
+        }
+
+        private void txtDNI_TextChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas();
         }
     }
 }

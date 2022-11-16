@@ -88,5 +88,21 @@ namespace pry.IEFI.LopezValentin
 
             Limpiar();
         }
+        private void BuenasPracticas()
+        {
+            if (txtDNI.Text != "")
+            {
+                cmdBuscar.Enabled = true;
+            }
+            else
+            {
+                cmdBuscar.Enabled =false;
+            }
+        }
+
+        private void txtDNI_TextChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas();
+        }
     }
 }

@@ -122,6 +122,7 @@
             this.txtNombreyApe.Name = "txtNombreyApe";
             this.txtNombreyApe.Size = new System.Drawing.Size(285, 20);
             this.txtNombreyApe.TabIndex = 7;
+            this.txtNombreyApe.TextChanged += new System.EventHandler(this.txtNombreyApe_TextChanged);
             // 
             // mskDNI
             // 
@@ -130,6 +131,7 @@
             this.mskDNI.Name = "mskDNI";
             this.mskDNI.Size = new System.Drawing.Size(100, 20);
             this.mskDNI.TabIndex = 8;
+            this.mskDNI.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.mskDNI_MaskInputRejected);
             // 
             // lstActividad
             // 
@@ -139,6 +141,7 @@
             this.lstActividad.Name = "lstActividad";
             this.lstActividad.Size = new System.Drawing.Size(100, 21);
             this.lstActividad.TabIndex = 9;
+            this.lstActividad.SelectedIndexChanged += new System.EventHandler(this.lstActividad_SelectedIndexChanged);
             // 
             // DTPFechaNac
             // 
@@ -155,6 +158,7 @@
             this.lstSucursal.Name = "lstSucursal";
             this.lstSucursal.Size = new System.Drawing.Size(100, 21);
             this.lstSucursal.TabIndex = 11;
+            this.lstSucursal.SelectedIndexChanged += new System.EventHandler(this.lstSucursal_SelectedIndexChanged);
             // 
             // txtSaldo
             // 
@@ -163,6 +167,7 @@
             this.txtSaldo.Name = "txtSaldo";
             this.txtSaldo.Size = new System.Drawing.Size(100, 20);
             this.txtSaldo.TabIndex = 12;
+            this.txtSaldo.TextChanged += new System.EventHandler(this.txtSaldo_TextChanged);
             // 
             // pictureBox1
             // 

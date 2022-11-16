@@ -183,7 +183,7 @@ namespace pry.IEFI.LopezValentin
             }
             catch (Exception mensaje)
             {
-                MessageBox.Show(mensaje.Message);
+                MessageBox.Show("Documento ya registrado, utilice otro.");
                 //throw;
             }
 
@@ -229,8 +229,9 @@ namespace pry.IEFI.LopezValentin
                 comando.CommandText = "AdeDClientes";
                 //Crea una tabla virtual en la RAM 
                 OleDbDataReader Lector = comando.ExecuteReader();
+
                 //Si lee
-                
+
                 if (Lector.HasRows)
                 {
                     //Mientras no sea fin de archivo
@@ -393,7 +394,7 @@ namespace pry.IEFI.LopezValentin
                 Int32 linea = 200;
                 //Imprime el encabezado del PDF
                 reporte.Graphics.DrawString("Listado de Clientes", LetraTitulo1,Brushes.Black,100,100);
-                //Imprime nombres de las columnas del PFF
+                //Imprime nombres de las columnas del PDF
                
                 reporte.Graphics.DrawString("Nombre", LetraTitulo2, Brushes.Black, 100, 150);
                 reporte.Graphics.DrawString("Documento", LetraTitulo2, Brushes.Black, 200, 150);
@@ -428,7 +429,12 @@ namespace pry.IEFI.LopezValentin
                         reporte.Graphics.DrawString(fila["Sucursal"].ToString(), TipoLetra, Brushes.Black, 400, linea);
                         reporte.Graphics.DrawString(fila["Saldo"].ToString(), TipoLetra, Brushes.Black, 500, linea);
                         linea = (linea + 20);
+                        CalculoCantidad++;
+                        
                     }
+                    reporte.Graphics.DrawString("Cantidad Clientes" + "" + CalculoCantidad, LetraTitulo2, Brushes.Black, 100, linea+20);
+                    
+
 
                 }
                 conexion.Close();

@@ -68,6 +68,7 @@
             this.txtDNI.Name = "txtDNI";
             this.txtDNI.Size = new System.Drawing.Size(100, 20);
             this.txtDNI.TabIndex = 14;
+            this.txtDNI.TextChanged += new System.EventHandler(this.txtDNI_TextChanged);
             // 
             // lblSaldo
             // 
@@ -107,6 +108,7 @@
             // 
             // cmdBuscar
             // 
+            this.cmdBuscar.Enabled = false;
             this.cmdBuscar.Location = new System.Drawing.Point(228, 268);
             this.cmdBuscar.Name = "cmdBuscar";
             this.cmdBuscar.Size = new System.Drawing.Size(75, 23);

@@ -32,13 +32,13 @@ namespace pry.IEFI.LopezValentin
         private void cmdRegistrar_Click(object sender, EventArgs e)
         {
             clsClientes Agregar = new clsClientes();
-            
+
 
             Agregar.Documento = Convert.ToInt32(mskDNI.Text);
             Agregar.NombreYApellido = txtNombreyApe.Text;
             Agregar.ActividadCliente = lstActividad.SelectedIndex;
             Agregar.Sucursales = lstSucursal.SelectedIndex;
-           // Agregar.FechaNacimiento = DTPFechaNac.Text;
+            // Agregar.FechaNacimiento = DTPFechaNac.Text;
             Agregar.Saldos = Convert.ToInt32(txtSaldo.Text);
 
             Agregar.Registrar();
@@ -63,7 +63,43 @@ namespace pry.IEFI.LopezValentin
             lstSucursal.SelectedIndex = -1;
             lstActividad.SelectedIndex = -1;
             txtSaldo.Text = "";
-             
+
+        }
+        private void BuenasPracticas()
+        {
+            if (txtNombreyApe.Text != "" && txtSaldo.Text != "" && mskDNI.Text != "" && lstActividad.SelectedIndex >= 0 && lstSucursal.SelectedIndex >= 0)
+            {
+                cmdRegistrar.Enabled = true;
+            }
+            else
+            {
+                cmdRegistrar.Enabled=false;
+            }
+        }
+
+        private void txtNombreyApe_TextChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas();
+        }
+
+        private void mskDNI_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+            BuenasPracticas();
+        }
+
+        private void lstActividad_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas();
+        }
+
+        private void lstSucursal_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas();
+        }
+
+        private void txtSaldo_TextChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas();
         }
     }
 }

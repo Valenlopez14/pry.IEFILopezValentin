@@ -1,9 +1,12 @@
 Listado de clientes de una Actvidiad
 
 Nombre;Actividad;Saldo
-Mateo Ronco;4;-5600
-Ignacio Francioni;4;-500
-Lisandro Arroyo;4;3200
-Cantidad de Clientes: 3
-Total de Saldo: -2900
-Promedio: -966
+Matias Ronco;1;2400
+JuanFer Quintero;1;912
+Gonzalo Martinez;1;1200
+Juanfer;1;12
+Valentin Lopez;1;10000
+Marcelo Gallardo;1;912
+Cantidad de Clientes: 6
+Total de Saldo: 15436
+Promedio: 2572
