@@ -20,7 +20,7 @@ namespace pry.IEFI.LopezValentin
         private void frmBuscarCliente_Load(object sender, EventArgs e)
         {
             clsSucursales objSucursal = new clsSucursales();
-            objSucursal.LlenarLstActividad(lstActividad);
+            objSucursal.LlenarLst(lstSucursal);
 
             clsSucursales objActividad = new clsSucursales();
             objActividad.LlenarLstActividad(lstActividad);
