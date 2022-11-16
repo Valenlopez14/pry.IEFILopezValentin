@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmBuscarCliente));
             this.txtSaldo = new System.Windows.Forms.TextBox();
             this.txtNombreyApell = new System.Windows.Forms.TextBox();
             this.txtDNI = new System.Windows.Forms.TextBox();
@@ -187,6 +188,7 @@
             this.Controls.Add(this.txtDNI);
             this.Controls.Add(this.lblDNI);
             this.Controls.Add(this.cmdBuscar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmBuscarCliente";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmBuscarCliente";

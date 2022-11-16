@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmListadoSucursales));
             this.dgvListadoSucursales = new System.Windows.Forms.DataGridView();
             this.cmdListarSucursales = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListadoSucursales)).BeginInit();
@@ -59,6 +60,7 @@
             this.ClientSize = new System.Drawing.Size(244, 320);
             this.Controls.Add(this.cmdListarSucursales);
             this.Controls.Add(this.dgvListadoSucursales);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmListadoSucursales";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Listado de Sucursales";

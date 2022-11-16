@@ -193,6 +193,7 @@
             this.Controls.Add(this.lblActividad);
             this.Controls.Add(this.lblNombre);
             this.Controls.Add(this.cmdRegistrar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmAgregarCliente";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmAgregarCliente";

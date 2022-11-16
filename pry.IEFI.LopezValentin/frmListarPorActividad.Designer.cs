@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmListarPorActividad));
             this.lstActividad = new System.Windows.Forms.ComboBox();
             this.dgvListarActividad = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -147,6 +148,7 @@
             this.Controls.Add(this.cmdListar);
             this.Controls.Add(this.dgvListarActividad);
             this.Controls.Add(this.lstActividad);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmListarPorActividad";
             this.Text = "frmListarPorActividad";
             this.Load += new System.EventHandler(this.frmListarPorActividad_Load);

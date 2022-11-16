@@ -28,7 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmListadoClientes));
             this.DgvGrilla = new System.Windows.Forms.DataGridView();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cmdListarClientes = new System.Windows.Forms.Button();
             this.lblCantidadClientes = new System.Windows.Forms.Label();
             this.lblPromedio = new System.Windows.Forms.Label();
@@ -36,9 +40,6 @@
             this.lblCantidadResultado = new System.Windows.Forms.Label();
             this.lblTotalResultado = new System.Windows.Forms.Label();
             this.lblPromedioResultado = new System.Windows.Forms.Label();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.DgvGrilla)).BeginInit();
             this.SuspendLayout();
             // 
@@ -54,6 +55,21 @@
             this.DgvGrilla.Size = new System.Drawing.Size(344, 302);
             this.DgvGrilla.TabIndex = 0;
             this.DgvGrilla.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgvGrilla_CellContentClick);
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "Nombre";
+            this.Column1.Name = "Column1";
+            // 
+            // Column2
+            // 
+            this.Column2.HeaderText = "Documento";
+            this.Column2.Name = "Column2";
+            // 
+            // Column3
+            // 
+            this.Column3.HeaderText = "Saldo";
+            this.Column3.Name = "Column3";
             // 
             // cmdListarClientes
             // 
@@ -126,21 +142,6 @@
             this.lblPromedioResultado.TabIndex = 8;
             this.lblPromedioResultado.Text = "-";
             // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "Nombre";
-            this.Column1.Name = "Column1";
-            // 
-            // Column2
-            // 
-            this.Column2.HeaderText = "Documento";
-            this.Column2.Name = "Column2";
-            // 
-            // Column3
-            // 
-            this.Column3.HeaderText = "Saldo";
-            this.Column3.Name = "Column3";
-            // 
             // frmListadoClientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -154,6 +155,7 @@
             this.Controls.Add(this.lblCantidadClientes);
             this.Controls.Add(this.cmdListarClientes);
             this.Controls.Add(this.DgvGrilla);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmListadoClientes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmListadoClientes";
