@@ -103,6 +103,45 @@ namespace pry.IEFI.LopezValentin
         private void txtDNI_TextChanged(object sender, EventArgs e)
         {
             BuenasPracticas();
+            BuenasPracticas2();
+        }
+        private void BuenasPracticas2()
+        {
+            if (txtDNI.Text != "" && txtDocumento.Text != "" && txtNombre.Text != "" && txtSaldo.Text != "" && lstActividad.SelectedIndex >= 0 && lstSucursal.SelectedIndex >= 0)
+            {
+                cmdModificar.Enabled = true;
+                cmdEliminar.Enabled = true;
+            }
+            else
+            {
+                cmdModificar.Enabled=false;
+                cmdEliminar.Enabled=false;
+            }
+        }
+
+        private void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas2();
+        }
+
+        private void lstSucursal_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas2();
+        }
+
+        private void txtSaldo_TextChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas2();
+        }
+
+        private void txtDocumento_TextChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas2();
+        }
+
+        private void lstActividad_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            BuenasPracticas2();
         }
     }
 }

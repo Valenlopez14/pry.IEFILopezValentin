@@ -54,6 +54,7 @@
             this.txtSaldo.Name = "txtSaldo";
             this.txtSaldo.Size = new System.Drawing.Size(100, 20);
             this.txtSaldo.TabIndex = 17;
+            this.txtSaldo.TextChanged += new System.EventHandler(this.txtSaldo_TextChanged);
             // 
             // txtNombre
             // 
@@ -61,6 +62,7 @@
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(173, 20);
             this.txtNombre.TabIndex = 15;
+            this.txtNombre.TextChanged += new System.EventHandler(this.txtNombre_TextChanged);
             // 
             // txtDNI
             // 
@@ -119,6 +121,7 @@
             // 
             // cmdEliminar
             // 
+            this.cmdEliminar.Enabled = false;
             this.cmdEliminar.Location = new System.Drawing.Point(17, 268);
             this.cmdEliminar.Name = "cmdEliminar";
             this.cmdEliminar.Size = new System.Drawing.Size(75, 23);
@@ -129,6 +132,7 @@
             // 
             // cmdModificar
             // 
+            this.cmdModificar.Enabled = false;
             this.cmdModificar.Location = new System.Drawing.Point(120, 268);
             this.cmdModificar.Name = "cmdModificar";
             this.cmdModificar.Size = new System.Drawing.Size(75, 23);
@@ -163,6 +167,7 @@
             this.lstActividad.Name = "lstActividad";
             this.lstActividad.Size = new System.Drawing.Size(100, 21);
             this.lstActividad.TabIndex = 22;
+            this.lstActividad.SelectedIndexChanged += new System.EventHandler(this.lstActividad_SelectedIndexChanged);
             // 
             // lblActividad
             // 
@@ -179,6 +184,7 @@
             this.txtDocumento.Name = "txtDocumento";
             this.txtDocumento.Size = new System.Drawing.Size(100, 20);
             this.txtDocumento.TabIndex = 20;
+            this.txtDocumento.TextChanged += new System.EventHandler(this.txtDocumento_TextChanged);
             // 
             // lblDocumento
             // 
@@ -196,6 +202,7 @@
             this.lstSucursal.Name = "lstSucursal";
             this.lstSucursal.Size = new System.Drawing.Size(100, 21);
             this.lstSucursal.TabIndex = 18;
+            this.lstSucursal.SelectedIndexChanged += new System.EventHandler(this.lstSucursal_SelectedIndexChanged);
             // 
             // frmModificarCliente
             // 
